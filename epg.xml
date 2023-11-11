@@ -1,0 +1,16 @@
+ <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="techiesneh" generator-info-url="https://instagram.com/techiesneh">
+ <channel id="1">
+  <display-name>
+   Zee Bangla
+  </display-name>
+  <icon src="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png"/>
+ </channel>
+  <channel id="2853">
+  <display-name>
+   Somoy TV
+  </display-name>
+  <icon src="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png"/>
+ </channel>
+ </tv>
